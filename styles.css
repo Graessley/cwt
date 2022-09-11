@@ -29,7 +29,6 @@ li {
     margin: 0;
     padding: 40px;
     font-family: Courier;
-    font-color: black;
     font-size: 20px;
     display: inline-block;
     z-index: 1;
@@ -55,10 +54,6 @@ li {
 .welcome-section {
     text-align: center;
     padding: 10px;
-}
-
-.writing-section {
-
 }
 
 code {
