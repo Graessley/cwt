@@ -8,7 +8,7 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    padding: 0px;
+    padding: 20px;
 }
 
 #navbar {
@@ -56,6 +56,8 @@ img {
 .welcome-section {
     text-align: center;
     padding: 10px;
+    width: 50%;
+    margin: auto;
 }
 
 code {
