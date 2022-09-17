@@ -16,7 +16,7 @@ img {
     padding: 0%;
 }
 
-ul {
+#top-nav-ul {
     list-style-type: none; /* removes the bullet */
     background-color: azure;
     font-family: Courier;
@@ -24,7 +24,7 @@ ul {
     display: flex;
     z-index: 1;
 }
-li {
+#top-nav-li {
     background-color: azure;
     margin: 0;
     padding: 40px;
