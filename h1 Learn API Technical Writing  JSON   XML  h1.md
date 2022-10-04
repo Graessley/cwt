@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-    <link href="index.html">
-    <link rel="stylesheet" href="styles.css">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <title>Archive</title>
-    </head>
-    <body>
-        <h1>Learn API Technical Writing: JSON & XML</h1>
+<h1>Learn API Technical Writing: JSON & XML</h1>
 <p>JavaScript Object Notation (JSON) features several basic data types:</p>
 <ul>
 	<li>Strings - Enclosed in single or double quotation marks (“ “)</li>
@@ -66,7 +55,7 @@
 	<li>Content without tags is considered a string - even without quotes</li>
 	<li>If content has tags - Nest the data: tags inside of tags to create nested data</li>
 </ul>
-```
+``` 
 <color>
 <red>504</red>
 	<green>123</green>
@@ -82,7 +71,6 @@
 	<li>Attributes appear in the start tag - key=”value”</li>
 	<li>Most common designs <strong>do not</strong> feature attributes for data</li>
 	<li>Used to indicate that some property about the data - metadata</li>
-</ul>
 ```
 <fileSize unit=”KB”>34.6</fileSize>
 <cost currency=”USD”>42.3</cost>
@@ -123,4 +111,3 @@
 	<li>Able to produce content in both HTML and PDF formats</li>
 	<li>Example Commercial Tools: <strong>Flare</strong>, RoboHelp, and Help & Manual</li>
 </ul>
-    </body>
