@@ -1,3 +1,7 @@
+#msTemplate {
+    color: white;
+}
+
 p {
     font-family: Courier;
 }
@@ -120,6 +124,8 @@ code {
     text-decoration: none;
     display: block;
   }
+
+
   
   /* Change color of dropdown links on hover */
   .dropdown-content a:hover {background-color: #ddd;}
